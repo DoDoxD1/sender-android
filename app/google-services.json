@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298956248521",
+    "project_id": "sender-c5344",
+    "storage_bucket": "sender-c5344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298956248521:android:7f7a0d4ac6c2ed43b88418",
+        "android_client_info": {
+          "package_name": "com.example.sharer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsCF4BkoB141C_sxfs2Gd6iraLnV86ZlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
